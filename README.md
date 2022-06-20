@@ -42,7 +42,63 @@
 [![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+</br></br>
+## Some YouTube videos:
 
+<table style="width:100%">
+  <tr>
+    <td>
+	<a href="https://youtu.be/MyzZnIR5gC4">
+  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/P6ko_I5GHbs">
+  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	</a>
+	</td>
+    <td>
+	<a href="https://youtu.be/hGIzLGgf3Bo">
+  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+  <tr>
+    <td>
+	<a href="https://youtu.be/BQaxPwZWboA">
+  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/ebQphhLpJG0">
+  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/X5fjEEmXR2s">
+  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+    <tr>
+    <td>
+	<a href="https://youtu.be/1IpkZhkPC_I">
+  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
+	</a>
+	</td>
+	<td>
+	<a href="https://youtu.be/HH7U3tA0S8M">
+  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
+	</a>
+	</td>
+   <td>
+	<a href="https://youtu.be/vhrus08jp6s">
+  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+	</a>
+	</td>
+  </tr>
+</table>
+</table>
 ## Contact: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misrainrl)
 </br>
