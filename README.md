@@ -20,3 +20,8 @@ https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoC
 https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 
 
+Sobre esta base, simplemente reemplazamos el `nombre del enlace` por` imagen`:
+ 
+ [! [Descripción de la imagen] (Enlace de imagen)] ()
+ 
+[![](https://img.shields.io/badge/download-1K-brightgreen.svg)](https://www.baidu.com)
