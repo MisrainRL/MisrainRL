@@ -29,3 +29,5 @@ Sobre esta base, simplemente reemplazamos el `nombre del enlace` por` imagen`:
 Imagen de visualización de sintaxis de MarkDown :! [Descripción de la imagen] (Enlace de imagen)
  
 ![](https://img.shields.io/badge/download-1K-brightgreen.svg)
+
+| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />     | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`     |
