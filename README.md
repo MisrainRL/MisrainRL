@@ -20,14 +20,7 @@
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 
-Sobre esta base, simplemente reemplazamos el `nombre del enlace` por` imagen`:
- 
- [! [Descripción de la imagen] (Enlace de imagen)] ()
- 
-[![](https://img.shields.io/badge/download-1K-brightgreen.svg)](https://www.baidu.com)
-
-Imagen de visualización de sintaxis de MarkDown :! [Descripción de la imagen] (Enlace de imagen)
- 
-![](https://img.shields.io/badge/download-1K-brightgreen.svg)
-
-| <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" />     | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`     |
+## Skills:
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+[![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
+[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
