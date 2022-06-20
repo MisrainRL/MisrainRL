@@ -48,59 +48,25 @@
 <table style="width:100%">
   <tr>
     <td>
-	<a href="https://youtu.be/MyzZnIR5gC4">
-  		<img src="http://i3.ytimg.com/vi/MyzZnIR5gC4/maxresdefault.jpg">
+	<a href="https://youtu.be/07g-xwBkulU">
+  		<img src="https://i9.ytimg.com/vi/07g-xwBkulU/mq2.jpg?sqp=COTiw5UG&rs=AOn4CLBjleO67S3QTvkn-A87vPMjFBOraA">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/P6ko_I5GHbs">
-  		<img src="http://i3.ytimg.com/vi/P6ko_I5GHbs/maxresdefault.jpg">
+	<a href="https://youtu.be/ZzrWweDdXmk">
+  		<img src="https://i9.ytimg.com/vi/ZzrWweDdXmk/mq2.jpg?sqp=COTiw5UG&rs=AOn4CLCuJFfjx5o6bqs0V-aV6kNcKbV5LQ">
 	</a>
 	</td>
     <td>
-	<a href="https://youtu.be/hGIzLGgf3Bo">
-  		<img src="http://i3.ytimg.com/vi/hGIzLGgf3Bo/maxresdefault.jpg">
+	<a href="https://youtu.be/Sxg6NlGYCkQ">
+  		<img src="https://i9.ytimg.com/vi/Sxg6NlGYCkQ/mq2.jpg?sqp=COTiw5UG&rs=AOn4CLBAb6qLTS7o21fg4x73uLg7gF-x8w">
 	</a>
 	</td>
   </tr>
-  <tr>
-    <td>
-	<a href="https://youtu.be/BQaxPwZWboA">
-  		<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/ebQphhLpJG0">
-  		<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/X5fjEEmXR2s">
-  		<img src="http://i3.ytimg.com/vi/X5fjEEmXR2s/maxresdefault.jpg">
-	</a>
-	</td>
-  </tr>
-    <tr>
-    <td>
-	<a href="https://youtu.be/1IpkZhkPC_I">
-  		<img src="http://i3.ytimg.com/vi/1IpkZhkPC_I/maxresdefault.jpg">
-	</a>
-	</td>
-	<td>
-	<a href="https://youtu.be/HH7U3tA0S8M">
-  		<img src="http://i3.ytimg.com/vi/HH7U3tA0S8M/maxresdefault.jpg">
-	</a>
-	</td>
-   <td>
-	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="https://i9.ytimg.com/vi_webp/07g-xwBkulU/mqdefault.webp?sqp=CODbw5UG&rs=AOn4CLBb6h5Tlm-m9j6eK9XfScTQpD_r2w">
-	</a>
-	</td>
-  </tr>
-</table>
+
 </table>
 
-</br>
+</br></br>
 ## Contact: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misrainrl)
 </br>
