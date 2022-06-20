@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
+# ![https://mouredev.com](https://avatars.githubusercontent.com/u/80868507?v=4) Hello, my name is Brais Moure 
 ### Freelance full-stack iOS & Android engineer
 - 👋 Hi, I’m @MisrainRL
 - 👀 I’m interested in ...
