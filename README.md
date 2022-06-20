@@ -1,4 +1,4 @@
-💻<h1>Hello, my name is Misrain Ruí López</h1>
+<h1> 💻 Hello, my name is Misrain Ruíz López</h1>
 </br>
  📝 </br>
 Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
