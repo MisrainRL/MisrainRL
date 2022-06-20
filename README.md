@@ -18,3 +18,7 @@ https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoCol
 https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+
+ Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
