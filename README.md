@@ -93,14 +93,14 @@
 	</td>
    <td>
 	<a href="https://youtu.be/vhrus08jp6s">
-  		<img src="http://i3.ytimg.com/vi/vhrus08jp6s/maxresdefault.jpg">
+  		<img src="https://i9.ytimg.com/vi_webp/07g-xwBkulU/mqdefault.webp?sqp=CODbw5UG&rs=AOn4CLBb6h5Tlm-m9j6eK9XfScTQpD_r2w">
 	</a>
 	</td>
   </tr>
 </table>
 </table>
 
-</br></br>
+</br>
 ## Contact: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misrainrl)
 </br>
