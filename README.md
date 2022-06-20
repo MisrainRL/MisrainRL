@@ -25,3 +25,7 @@ Sobre esta base, simplemente reemplazamos el `nombre del enlace` por` imagen`:
  [! [Descripción de la imagen] (Enlace de imagen)] ()
  
 [![](https://img.shields.io/badge/download-1K-brightgreen.svg)](https://www.baidu.com)
+
+Imagen de visualización de sintaxis de MarkDown :! [Descripción de la imagen] (Enlace de imagen)
+ 
+![](https://img.shields.io/badge/download-1K-brightgreen.svg)
