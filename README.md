@@ -1,4 +1,10 @@
 <h1>Hello, my name is Misrain Ruí López</h1>
+</br>
+Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
+Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
+Soy una persona capaz de trabajar solo y en equipo; me esfuerzo por hacer las cosas de la manera más eficiente y detallada posible.
+Mi objetivo es incorporarme a una empresa para aplicar y ampliar mis conocimientos y habilidades
+sobre programación, así como contribuir de forma positiva en la empresa.
 
 ## Skills: </br>
 [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
