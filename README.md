@@ -1,17 +1,18 @@
 <h1>Hello, my name is Misrain Ruí López</h1>
 </br>
+📝
 Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
 Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
 Soy una persona capaz de trabajar solo y en equipo; me esfuerzo por hacer las cosas de la manera más eficiente y detallada posible.
 Mi objetivo es incorporarme a una empresa para aplicar y ampliar mis conocimientos y habilidades
 sobre programación, así como contribuir de forma positiva en la empresa.</br>
-<div align="right";>
+<div align="left";>
 <a href="https://drive.google.com/file/d/1_I09Y-BCKCZUtt8Pm_725PXW_HoiSnpr/view?usp=sharing">
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" width="80" height="80">
 	</div>
 
 
-## Skills: </br>
+## 🚀 Skills </br>
 [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
