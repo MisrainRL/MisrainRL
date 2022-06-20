@@ -1,6 +1,6 @@
 <h1>Hello, my name is Misrain Ruí López</h1>
 </br>
-## 📝 </br>
+ 📝 </br>
 Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
 Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
 Soy una persona capaz de trabajar solo y en equipo; me esfuerzo por hacer las cosas de la manera más eficiente y detallada posible.
@@ -12,7 +12,7 @@ sobre programación, así como contribuir de forma positiva en la empresa.</br>
 	</div>
 
 
-## 🚀 Skills </br>
+ 🚀 Skills </br>
 [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
@@ -35,7 +35,8 @@ sobre programación, así como contribuir de forma positiva en la empresa.</br>
 [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 </br></br>
-👩‍💻 ## IDE </br></br>
+👩‍💻 ## IDE </br>
+</br>
 [![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)]()
 [![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)]()
 [![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)]()
