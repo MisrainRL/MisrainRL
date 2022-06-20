@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <h1>Skills:</h1>
-!(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</br>
+!![Aquí la descripción de la imagen por si no carga](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)</br>
 https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
@@ -19,6 +19,4 @@ https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgres
 https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white
 https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
 
- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
+
