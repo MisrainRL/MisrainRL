@@ -5,7 +5,7 @@
  
 <table class="default">
   <tr>
-    <td WIDTH="50" 
+    <td WIDTH="200" 
 	    HEIGHT="50">
 	    <div align="justify";>
 		Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
