@@ -74,17 +74,17 @@
   <tr>
     <td>
 	<a href="https://youtu.be/07g-xwBkulU">
-  		<img src="https://i9.ytimg.com/vi_webp/ZzrWweDdXmk/mqdefault.webp?sqp=CPjHx5UG&rs=AOn4CLCFUvnKcNmoqH8VLfIkrmw-JLR46w">
+  		<img src="https://i9.ytimg.com/vi_webp/07g-xwBkulU/mqdefault.webp?sqp=CPjHx5UG&rs=AOn4CLBexPmZmygYrt5m9NJrNItUDasksA">
 	</a>
 	</td>
     <td>
 	<a href="https://youtu.be/ZzrWweDdXmk">
-  		<img src="https://i9.ytimg.com/vi/ZzrWweDdXmk/mq2.jpg?sqp=COTiw5UG&rs=AOn4CLCuJFfjx5o6bqs0V-aV6kNcKbV5LQ">
+  		<img src="https://i9.ytimg.com/vi_webp/ZzrWweDdXmk/mqdefault.webp?sqp=CPjHx5UG&rs=AOn4CLCFUvnKcNmoqH8VLfIkrmw-JLR46w">
 	</a>
 	</td>
     <td>
 	<a href="https://youtu.be/Sxg6NlGYCkQ">
-  		<img src="https://i9.ytimg.com/vi/Sxg6NlGYCkQ/mq2.jpg?sqp=COTiw5UG&rs=AOn4CLBAb6qLTS7o21fg4x73uLg7gF-x8w">
+  		<img src="https://i9.ytimg.com/vi_webp/Sxg6NlGYCkQ/mqdefault.webp?sqp=CPjHx5UG&rs=AOn4CLA5L_gBWQj2Dmx3mQ_et7UKN3XESA">
 	</a>
 	</td>
   </tr>
