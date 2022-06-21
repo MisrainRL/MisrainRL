@@ -10,7 +10,7 @@ Soy una persona capaz de trabajar solo y en equipo; me esfuerzo por hacer las co
 Mi objetivo es incorporarme a una empresa para aplicar y ampliar mis conocimientos y habilidades sobre programación, así como contribuir de forma positiva en la empresa.</div>
 </div> 
 <div style="width: 20%; float:right">
-<img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" style="display: block; opacity: 1;" width="300" height="300"> 
+<img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" style="display: block; opacity: 1;" width="250" height="250"> 
 <br style="clear:both;"/>
 </div>
 
