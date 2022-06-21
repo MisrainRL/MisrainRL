@@ -5,7 +5,7 @@
  
 <table class="default">
   <tr>
-    <td>
+    <td style="width: 20%; float:left">
 	    <div align="justify";>
 		Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
 		Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
@@ -13,7 +13,7 @@
 		Mi objetivo es incorporarme a una empresa para aplicar y ampliar mis conocimientos y habilidades sobre programación, así como contribuir de forma 		  positiva en la empresa.
 	    </div>
     </td>
-    	   <td>
+    	   <td style="width: 80%; float:right">
 		   <img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" style="display: block; opacity: 1;" width="250" height="250"> 
 	   </td>
   </tr>
