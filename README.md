@@ -2,8 +2,8 @@
 </br>
  📝 </br></br>
  
- <div style="width: 80%; float:left">
- <div align="justify";>
+ <div style="width: 80%; float:left" id="contenedor">
+<div align="justify";>
 Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
 Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
 Soy una persona capaz de trabajar solo y en equipo; me esfuerzo por hacer las cosas de la manera más eficiente y detallada posible.
@@ -92,3 +92,14 @@ Mi objetivo es incorporarme a una empresa para aplicar y ampliar mis conocimient
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:universidadcomputacion@gmail.com)
 </br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEh2TJ9H7aPYzBb2uwjFvUg)
+
+
+#contenedor {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#contenedor > div {
+  width: 50%;
+}
