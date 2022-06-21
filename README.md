@@ -25,7 +25,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" width="80" height="80">
 </div>
 </br>
-</br>
+
 🚀 Skills </br>
 </br>
 [![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
