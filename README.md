@@ -5,8 +5,7 @@
  
 <table class="default">
   <tr>
-    <td WIDTH="200" 
-	    HEIGHT="50">
+    <td WIDTH="700" >
 	    <div align="justify";>
 		Soy alumno engresado de la Universidad del Istmo, de la licenciatura en ingeniería en computación
 		Mis intereses están basados al desarrollo de software y nuevas tecnologías. 
