@@ -75,17 +75,17 @@
   <tr>
     <td>
 	<a href="https://youtu.be/07g-xwBkulU">
-  		<img src="https://i9.ytimg.com/vi_webp/07g-xwBkulU/mqdefault.webp?sqp=CICPzpUG&rs=AOn4CLCVpmglLjkVxJPtcGt8HWOAVV0jng">
+  		<img src="https://i9.ytimg.com/vi/07g-xwBkulU/mq2.jpg?sqp=CMzW0pUG&rs=AOn4CLAGUzmvq3H75dCv4drJurFMyboTLg">
 	</a>
 	</td>
     <td>
 	<a href="https://youtu.be/ZzrWweDdXmk">
-  		<img src="https://i9.ytimg.com/vi_webp/ZzrWweDdXmk/mqdefault.webp?sqp=CICPzpUG&rs=AOn4CLD4pd6v9OdbYtwszON3Ml2DmUA8mA">
+  		<img src="https://i9.ytimg.com/vi/ZzrWweDdXmk/mq3.jpg?sqp=CMzW0pUG&rs=AOn4CLCQ5QWvOs4Z-yiu3kIsWq7J4fBaIQ">
 	</a>
 	</td>
     <td>
 	<a href="https://youtu.be/Sxg6NlGYCkQ">
-  		<img src="https://i9.ytimg.com/vi_webp/Sxg6NlGYCkQ/mqdefault.webp?sqp=CICPzpUG&rs=AOn4CLAGOwLRWm7CvR-4WoyC2GOHKfkXBQ">
+  		<img src="https://i9.ytimg.com/vi/Sxg6NlGYCkQ/mq2.jpg?sqp=CMzW0pUG&rs=AOn4CLAMWWqxJd3Q5CKnTp-9WvaBWP1p3w">
 	</a>
 	</td>
   </tr>
@@ -94,7 +94,5 @@
 </br></br>
 ## Contact: </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misrainrl)
-</br>
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:universidadcomputacion@gmail.com)
-</br>
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCEh2TJ9H7aPYzBb2uwjFvUg)
