@@ -19,6 +19,10 @@
   </tr>
 </table>
 
+Actualmente me ecuentro aprendiendo Salesforce
+</br>
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/mruizlopez)
+
  </br>
 <div align="left";>
 	<a href="https://drive.google.com/file/d/1_I09Y-BCKCZUtt8Pm_725PXW_HoiSnpr/view?usp=sharing">
