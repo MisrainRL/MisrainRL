@@ -72,28 +72,6 @@ Actualmente me ecuentro aprendiendo Salesforce
 [![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-</br></br>
-## Some YouTube videos:
-
-<table style="width:100%">
-  <tr>
-    <td>
-	<a href="https://youtu.be/07g-xwBkulU">
-  		<img src="https://i9.ytimg.com/vi/07g-xwBkulU/mq2.jpg?sqp=CMzW0pUG&rs=AOn4CLAGUzmvq3H75dCv4drJurFMyboTLg">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/ZzrWweDdXmk">
-  		<img src="https://i9.ytimg.com/vi/ZzrWweDdXmk/mq3.jpg?sqp=CMzW0pUG&rs=AOn4CLCQ5QWvOs4Z-yiu3kIsWq7J4fBaIQ">
-	</a>
-	</td>
-    <td>
-	<a href="https://youtu.be/Sxg6NlGYCkQ">
-  		<img src="https://i9.ytimg.com/vi/Sxg6NlGYCkQ/mq2.jpg?sqp=CMzW0pUG&rs=AOn4CLAMWWqxJd3Q5CKnTp-9WvaBWP1p3w">
-	</a>
-	</td>
-  </tr>
-</table>
 
 </br></br>
 ## Contact: </br>
